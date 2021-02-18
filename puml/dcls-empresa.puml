@@ -22,7 +22,7 @@ class Persona {
 class Empleado {
     - sueldoBruto : float
     + mostrar()
-    + calcularSalarioNeto()
+    + calcularSalarioNeto() : int
 }
 
 class Cliente {
