@@ -12,3 +12,6 @@ Los empleados tienen un sueldo bruto y los que son directivos tienen una categor
 De los clientes además se necesita saber su teléfono de contacto. 
 
 La aplicación necesita mostrar los datos de empleados y clientes.
+
+### Diagrama de clases diseñado con PlantUML
+![Diagrama clases Empresa](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/carlosgs-iesquevedo/UML2JavaEmpresa/master/puml/dcls-empresa.puml)
