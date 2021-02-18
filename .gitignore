@@ -1,0 +1,11 @@
+# Los ficheros propios de IntelliJ y los compilados
+/.idea/
+*.iml
+out/
+
+# Para los que tienen MacOS
+.DS_Store
+
+# El directorio para guardar los ficheros Javadoc
+/doc/
+
